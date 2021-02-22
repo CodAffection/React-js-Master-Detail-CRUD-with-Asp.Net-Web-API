@@ -43,11 +43,11 @@ React.js App.
 alt="Video Tutorial for Asp.Net Core Web API Master Detail CRUD" width="500" height="400" border="10" /></a>
 
  ##### Part 2
- Video Tutorial : https://youtu.be/i8LymADs_U4
+ Video Tutorial : https://youtu.be/z5NsNtrl4Og
  
- <a href="http://www.youtube.com/watch?feature=player_embedded&v=i8LymADs_U4
-" target="_blank"><img src="http://img.youtube.com/vi/i8LymADs_U4/0.jpg" 
-alt="Video Tutorial for Asp.Net Core Web API Master Detail CRUD" width="500" height="400" border="10" /></a>
+ <a href="http://www.youtube.com/watch?feature=player_embedded&v=z5NsNtrl4Og
+" target="_blank"><img src="http://img.youtube.com/vi/z5NsNtrl4Og/0.jpg" 
+alt="Video Tutorial for React js Master Detail CRUD" width="500" height="400" border="10" /></a>
 
 
 | :bar_chart:               |  List of Tutorials   |   | :moneybag:           | Support Us                           |
